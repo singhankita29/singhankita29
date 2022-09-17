@@ -13,7 +13,7 @@ I like to use advanced programming languages & Framework like JavaScript, React,
  -->
  
  <a href="https://ankita29-portfolio.netlify.app" target="blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30891&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" width="80%" alt="Bath&BodyWorks"/></a>
+  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30891&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" width="90%"  height="5%" alt="Bath&BodyWorks"/></a>
  
 <h2 align="center">Technology Stack <img  src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
