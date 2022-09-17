@@ -41,7 +41,10 @@ Let's connect 👨‍💻 and forget the future together. 😁✌
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://medium.com/@ankitaaditi2903" target="blank">
-    <img src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=Medium&logoColor=black" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium">
+</a>
+<a href="mailto:ankitaaditi2903@gmail.com" title="Write me an email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" />
 </a>
 <a href="https://www.linkedin.com/in/ankita-singh-29a105241/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
