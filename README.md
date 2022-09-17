@@ -5,7 +5,8 @@ I like to use advanced programming languages & Framework like JavaScript, React,
 
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdgV5S9C5GWwq_c7Zz0iuevDw0j4oR6Igzg&usqp=CAU" width="80%"  alt="Intro Card">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdgV5S9C5GWwq_c7Zz0iuevDw0j4oR6Igzg&usqp=CAU" width="80%" height="60%"
+       alt="Intro Card">
 </p>
 
 - 📄 Portfolio - "https://ankita29-portfolio.netlify.app"
@@ -33,9 +34,19 @@ I like to use advanced programming languages & Framework like JavaScript, React,
 
 Let's connect 👨‍💻 and forget the future together. 😁✌ 
 
-[mail]:mailto:ankitaaditi2903@gmail.com
+<!-- [mail]:mailto:ankitaaditi2903@gmail.com
 [linkedin]: https://www.linkedin.com/in/ankita-singh-29a105241/
-[medium]: https://medium.com/@ankitaaditi2903
+[medium]: https://medium.com/@ankitaaditi2903 -->
+
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://medium.com/@ankitaaditi2903" target="blank">
+    <img src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=Medium&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/ankita-singh-29a105241/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
 
 
 
