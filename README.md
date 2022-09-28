@@ -1,15 +1,25 @@
 Hi there 👋, My Name is Ankita Singh
 I am Front-end web developer
+I believe smart work beats hard work. I enjoy reading books 📚, exploring new places and art & Craft 🎨.
 I always like to use advanced Technology for creating useful products.
+
 I like to use advanced programming languages & Framework like JavaScript, React, CSS, HTML etc.. and I love machine learning.
 
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ Full Stack Web Developer.
+- 👉 Interested in building amazing frontend websites.
+- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
+- 📄 Portfolio - "https://ankita29-portfolio.netlify.app"
+
+
+<br>
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdgV5S9C5GWwq_c7Zz0iuevDw0j4oR6Igzg&usqp=CAU" width="60%" height="40%"
        alt="Intro Card">
 </p>
 
-- 📄 Portfolio - "https://ankita29-portfolio.netlify.app"
 
  
 <!--  <a href="https://ankita29-portfolio.netlify.app" target="blank">
