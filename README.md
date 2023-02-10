@@ -22,7 +22,7 @@ I like to use advanced programming languages & Framework like JavaScript, React,
 
 
  
-<!--  <a href="https://ankita29-portfolio.netlify.app" target="blank">
+<!--  <a href="https://singhankita29.github.io/" target="blank">
   <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E3089&logo=Bath&BodyWorks&logoColor=FFFFFF&label="    alt="Bath&BodyWorks"/></a> -->
  
 <h2 align="center">Technology Stack <img  src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
