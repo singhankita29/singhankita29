@@ -10,7 +10,7 @@ I like to use advanced programming languages & Framework like JavaScript, React,
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://ankita29-portfolio.netlify.app"
+- 📄 Portfolio - "https://singhankita29.github.io/"
 
 
 <br>
